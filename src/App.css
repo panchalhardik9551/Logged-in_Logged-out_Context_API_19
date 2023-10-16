@@ -1,0 +1,36 @@
+.main {
+  border: 2px solid black;
+  height: 250px;
+  width: 250px;
+  transform: translate(600px, 200px);
+  padding-left: 30px;
+  border-radius: 8px;
+  background: rgb(154, 74, 229);
+}
+
+input {
+  height: 30px;
+  border-radius: 8px;
+  width: 200px;
+  margin-top: 10px;
+  padding-left: 10px;
+  background: wheat;
+}
+
+#btn {
+  margin-top: 20px;
+  height: 30px;
+  width: 218px;
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  background-color: green;
+  color: white;
+}
+
+.pbtn {
+  background: none;
+  border: none;
+  margin-left: -35px;
+  margin-top: 22px;
+}
